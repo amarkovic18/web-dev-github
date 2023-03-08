@@ -1,0 +1,11 @@
+[33mcommit d03c4c4ce88af99613893f277a58d374cd333e19[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;32mmain[m[33m)[m
+Author: Anci <amarkovic220199@gmail.com>
+Date:   Wed Mar 8 03:07:19 2023 +0100
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit fb24e3a4da2ea86a113e673ee23885eed9c34260[m
+Author: Anci <amarkovic220199@gmail.com>
+Date:   Wed Mar 8 03:00:12 2023 +0100
+
+    added the test.txt file
